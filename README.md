@@ -21,6 +21,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [🎯 AI Tools for Marketing](#marketing-ai-tools)
 - [📞 AI Phone Call Agents](#phone-calls)
 - [🎒 Other AI Tools](#other)
+- [GateOnAI](https://www.gateonai.com) - Europe's independent AI tools directory — 2,756+ curated tools, semantic search, Stack Builder, Workflow Generator & Prompt Library. Free, no login required.
 - [👩‍🏫 Learning resources](#learning-resources)
 
 
